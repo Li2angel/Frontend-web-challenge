@@ -19,7 +19,7 @@ A QR-Code challenge from Frontendmentor.io, which was implemented using HTML and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Li2angel/Frontend-web-challenge/tree/main/qr_code_component_main)
+- Solution URL: [click here](https://github.com/Li2angel/Frontend-web-challenge/tree/main/qr_code_component_main)
 
 ## My process
 
